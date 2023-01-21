@@ -1,0 +1,6 @@
+
+urls www.something.com/
+
+modele ---->database
+views--->logic(controller)
+templates --> html files
